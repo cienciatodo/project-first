@@ -3,7 +3,18 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border-radius: 10px;
+  background: F4DACD;
+  
 }
+
+img{
+  width: 16px;
+  cursor: pointer;
+}
+
+
+
 
 .logo {
   height: 6em;
